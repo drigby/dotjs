@@ -1,3 +1,4 @@
 
+echo "Building dotjs coffeescripts"
 coffee --compile --bare --output . src/
 
